@@ -1,2 +1,0 @@
-# daether
-Ethereum Token Exchange
